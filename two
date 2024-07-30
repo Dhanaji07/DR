@@ -1,0 +1,3 @@
+implement github operations using git
+git config --global user.name "Dhanaji07"
+git config --global user.name "Your Name"
