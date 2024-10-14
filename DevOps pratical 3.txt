@@ -1,0 +1,4 @@
+cd existing_repo
+git remote add origin https://gitlab.com/super-king1/devops-2.git
+git branch -M main
+git push -uf origin main

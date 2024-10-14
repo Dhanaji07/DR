@@ -1,6 +1,0 @@
-print("Hello, World!")
-print("Dhanaji You can do it bhava tuz fakt kar fakt padun taku")
-print("Once change")
-print("Money is everything")
-print("Only busscies")
-print("Didn't Begg Against everyone")
